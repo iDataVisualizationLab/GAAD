@@ -28,11 +28,11 @@ The organizers will match all attackers and defenders from all teams and rank th
 |Practical Attacks Against Graph-based Clustering (2017)|attack|https://arxiv.org/pdf/1708.09056.pdf|
 |Adversarial Attack and Defense on Graph Data: A Survey (2020)|attack,defense|https://arxiv.org/pdf/1812.10528.pdf
 |HOW POWERFUL ARE GRAPH NEURAL NETWORKS? (2019)|graph_neural_network|https://arxiv.org/pdf/1810.00826.pdf
-|A Comprehensive Survey on Graph Neural Networks (2020) (2019)|graph_neural_network|https://arxiv.org/pdf/1901.00596.pdf
+|A Comprehensive Survey on Graph Neural Networks (2019)|graph_neural_network|https://arxiv.org/pdf/1901.00596.pdf
 
 
 **Other Resources**
 - https://github.com/yenchenlin/awesome-adversarial-machine-learning
 - https://stellargraph.readthedocs.io/en/stable/demos/index.html#find-algorithms-for-a-task
 - https://adversarial-ml-tutorial.org/
-- CS224W: Machine Learning with Graphs (Stanford - Fall 2019) [Course](http://web.stanford.edu/class/cs224w/)  [Videos](https://www.youtube.com/playlist?list=PL1OaWjIc3zJ4xhom40qFY5jkZfyO5EDOZ)
+- **CS224W: Machine Learning with Graphs** (Stanford - Fall 2019) [[Course]](http://web.stanford.edu/class/cs224w/)  [[Videos]](https://www.youtube.com/playlist?list=PL1OaWjIc3zJ4xhom40qFY5jkZfyO5EDOZ)
